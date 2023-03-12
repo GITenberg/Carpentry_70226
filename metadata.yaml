@@ -1,0 +1,28 @@
+_repo: Carpentry_70226
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Griffith, Ira Samuel
+    birthdate: 1874
+    deathdate: 1924
+    gutenberg_agent_id: '54613'
+    url: http://www.gutenberg.org/2009/agents/54613
+description: ''
+gutenberg_issued: '2023-03-07'
+identifiers:
+  gutenberg: '70226'
+language: en
+pgterms:marc904: https://archive.org/details/carpentry00grifuoft
+pgterms:marc905: 20230106065939griffith
+pgterms:marc906: '1916'
+pgterms:marc907: us
+production_note: Tom Cosmas from materials made available on The Internet Archive
+  and placed in the Public Domain.
+publication_note: '  $aUnited States :$bManual Arts Press, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Carpentry
+url: http://www.gutenberg.org/ebooks/70226
