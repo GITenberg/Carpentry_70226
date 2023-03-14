@@ -1,5 +1,8 @@
 _repo: Carpentry_70226
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70226-h/images/cover.png
 creator:
   author:
     agent_name: Griffith, Ira Samuel
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '54613'
     url: http://www.gutenberg.org/2009/agents/54613
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70226#Carpentry
 gutenberg_issued: '2023-03-07'
 identifiers:
   gutenberg: '70226'
